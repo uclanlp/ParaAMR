@@ -2,7 +2,7 @@
 
 Dataset for our ACL-2023 paper [ParaAMR: A Large-Scale Syntactically Diverse Paraphrase Dataset by AMR Back-Translation](https://arxiv.org/abs/2305.16585).
 
-Since this work is done during internship at Amazon. We are wating for Amazon's internal privacy approval. Once we get the approval, we will make the dataset as soon as possible. We are sorry about that.
+_Since this work is done during internship at Amazon. We are wating for Amazon's internal privacy approval. Once we get the approval, we will make the dataset as soon as possible. We are sorry about that._
 
 If you find that the code is useful in your research, please consider citing our paper.
 
